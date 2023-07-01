@@ -1,0 +1,9 @@
+.wrapper{
+    display: flex;
+    gap: 200px;
+}
+
+.image{
+    width: 700px;
+    height: 700px;
+}

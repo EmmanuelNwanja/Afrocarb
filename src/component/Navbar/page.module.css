@@ -1,0 +1,63 @@
+.navi{
+  margin: 30px auto;
+  max-width: 90%;
+  background: #0B0B0B;
+  display: flex;
+  padding: 15px 40px;
+  color: white;
+  border-radius: 10px;
+  opacity: 0.9;
+  backdrop-filter: blur(25px);
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  border: 0.1px solid #585656;
+
+}
+
+.mynav{
+  display: flex;
+  flex-direction: row;
+  gap: 420px;
+  align-content: center;
+  align-items: center;
+}
+
+.brand h1{
+  font-weight: bolder;
+  font-size:30px;
+}
+
+.links{
+  display: inherit;
+  flex-direction: row;
+  gap: 30px;
+  text-align: center;
+  align-content: center;
+  align-items: center;
+}
+
+.links li{
+  font-weight: normal;
+  font-size: 18px;
+}
+
+.login{
+  color: #C3FF7D;
+  background-color: inherit;
+  padding: 10px 15px;
+  border: 1px solid #C3FF7D;
+  font-weight: bold;
+  border-radius: 8px;
+    cursor: pointer;
+}
+
+.connect{
+  background-color: #417505;
+  padding: 10px 15px;
+  color: #fff;
+  font-weight: bold;
+  border-radius: 8px;
+  border: none;
+  cursor: pointer;
+}
