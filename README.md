@@ -1,34 +1,48 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a [VitroWire](https:vitrowire.com) supported project bootstrapped with the Afrocarb team.
 
-## Getting Started
+## About Afrocarb
 
-First, run the development server:
+First, let's take a short walk into the "WHY"...
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
 ```
+  • 7 of the 10 climate-impact most vulnerable nations are African nations.
+  • 9 of 10 impacts and emissions-related green companies in Nigeria want to
+    participate in the ETS market but lack easy access.
+  • Local impact green projects and businesses across Africa are encouraged verbally
+    but investment and international trade trust remain distant.
+  • Investment in African-impact projects and businesses dropped {by $45 billion in 2022}.
+  • Largely dependent on rain-fed agriculture, African communities are regularly hit by
+    droughts and floods, with enormous consequences to people’s food security. For example,
+    Southern and Northern Nigeria
+```
+Africa cannot build climate resilience on handouts because they are not sustainable and as Mr. Tony Elumely wrote in his piece which stemmed from his conversation with Senator John Kerry, “As the world continues to experience the daily impact of global warming, whether it is the tragic recent flooding in Pakistan, or the less covered, but equally harmful, persistent environmental degradation of Africa’s Sahel region, leaders need to act, not just talk. Equally, Africa should not just be in the conversation, but actively set the agenda.”
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+### So, what is Afrocarb?
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Afrocarb is a simple-to-use marketplace powered by blockchain technology that enables green projects across Africa to shake hands with global finance in exchange for impact and emissions credits, to scale their impact in local African communities and cities while helping non-green entities meet sustainability targets.
+
+Visit [Afrocarb](https://afrocarb.com) on your browser to see for yourself how we are using blockchain technology to positively impact African societies and the global environment.
+
 
 ## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+To learn more about Afrocarb, visit any of our social handles:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- [Twitter](https://twitter.com/afrocarbon) | [Facebook](https://twitter.com/afrocarbon) | [LinkedIn](https://linkedin.com/company/afrocarbon) | - [Instagram](https://instagram.com/afrocarbon)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
+## Join Us Early
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Are you just seeing this in 2024? 
+Don't worry about it, you are still early. You can join our growing community on [Telegram](t.me/afrocarbon).
+Your feedback and contributions are welcome!
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+## Apply to Access Green Financing for Your Eco-friendly Project
+
+Got a green project with direct environmental and social impact on Africa? Let's hear about it [here](https://forms.gle/kWnRpCbt62NyH2qD9)
+
+## Integrate with Afrocarb {coming soon}
+
+Make sure to check this page frequently for our [Afrocarb deployment documentation](https://afrocarb.com/docs/integration) for go-live announcement and more details.
