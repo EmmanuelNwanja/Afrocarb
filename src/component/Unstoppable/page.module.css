@@ -1,0 +1,20 @@
+.Unstop{
+    background: none;
+    text-align: center;
+    border: 1px solid #4C47F7;
+    padding: 8px;
+    display: flex;
+    flex-direction: row;
+    font-size: 20px;
+    color: #2FE9FF;
+    margin-top: 30px;
+    border-radius: 4px;
+}
+
+.image{
+    display: flex;
+    width: 25px;
+    margin-right: 50px;
+    justify-content: left;
+    margin-left: 10px;
+  }

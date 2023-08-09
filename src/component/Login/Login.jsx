@@ -5,6 +5,7 @@ import fb from '@/assets/facebook.png'
 import twitter from '@/assets/twitter.png'
 import google from '@/assets/google.png'
 import Image from 'next/image'
+import Link from 'next/link'
 
 const Login = () => {
   return (
@@ -33,7 +34,7 @@ const Login = () => {
             </div>
             <button className={styles.login}>login</button>
             <p className={styles.text}>Forget Password? <span className={styles.text2}>Reset</span> </p>
-            <p className={styles.text}>You don't have an account with us? <span className={styles.text2}>Sign Up</span></p>
+            <p className={styles.text}>You don't have an account with us? <span className={styles.text2}><Link href='/register'>Sign Up</Link></span></p>
         </div>
 
 
